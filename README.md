@@ -29,7 +29,7 @@ The [branding toolkit](https://github.com/TechAtNYU/branding) defines the visual
 	- If you need advice, have a specific question answerable with 1-2 sentences
 	- If you want them to speak, provide all the details and offer to provide accommodations
 
-6. **Get an introduction if possible.** This is advice for life. 99% of great things happen by way of introduction. Develop and nurture your relationships and ask for introductions.
+6. **Get an introduction.** This is advice for life. 99% of great things happen by way of introduction. Develop and nurture your relationships and ask for introductions.
 
 7. **Follow up.** People are busy. They forget. Maybe your email was too long. Reach out again in a couple of days, respectfully.
 
